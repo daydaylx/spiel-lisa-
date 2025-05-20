@@ -1,0 +1,1 @@
+deleteError } = await supabase.from('choices').delete().in('id', choicesToDelete);

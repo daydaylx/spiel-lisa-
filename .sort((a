@@ -1,0 +1,1 @@
+any, b: any) => (a.order_in_scene ?? 0) - (b.order_in_scene ?? 0))

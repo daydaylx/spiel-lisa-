@@ -1,0 +1,1 @@
+'flex', justifyContent:'center', alignItems:'center', height: {xs: 100, sm:150}, backgroundColor: 'rgba(0,0,0,0.2)', mb: 2.5, borderRadius: '4px', border: '2px dashed #8C6B42'}}>

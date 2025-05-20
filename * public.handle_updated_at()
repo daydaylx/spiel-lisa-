@@ -1,0 +1,1 @@
+Eine Trigger-Funktion, die automatisch das Feld updated_at jeder Tabelle aktualisiert, wenn eine Zeile geändert wird.

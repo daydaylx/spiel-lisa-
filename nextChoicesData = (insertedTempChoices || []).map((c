@@ -1,0 +1,1 @@
+any) => ({ id: c.id, text: c.player_facing_text }));

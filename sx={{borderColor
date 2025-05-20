@@ -1,0 +1,1 @@
+'rgba(255,222,173,0.5)', color: 'rgba(255,222,173,0.8)', '&:hover': {borderColor: '#FFDEAD', color: '#FFDEAD', backgroundColor: 'rgba(255,222,173,0.1)'}}}

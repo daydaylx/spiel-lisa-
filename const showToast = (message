@@ -1,0 +1,1 @@
+string, variant: VariantType = 'default'): SnackbarKey => {

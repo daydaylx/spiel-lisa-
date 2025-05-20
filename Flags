@@ -1,0 +1,1 @@
+{Object.keys(playerState.flags).length > 0 ? JSON.stringify(playerState.flags, null, 2) : 'Keine aktiven Flags'}

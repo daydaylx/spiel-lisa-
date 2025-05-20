@@ -1,0 +1,1 @@
+string | null; // Supabase auth.users ID

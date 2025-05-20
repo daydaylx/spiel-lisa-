@@ -1,0 +1,1 @@
+:jsonb, -- Flags, die gesetzt werden (z.B. {"has_key": true, "gold": "+10"})

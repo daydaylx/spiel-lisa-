@@ -1,0 +1,1 @@
+'none', fontWeight: 'medium', '&:hover': {textDecoration: 'underline'}}}

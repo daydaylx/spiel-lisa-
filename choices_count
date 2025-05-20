@@ -1,0 +1,1 @@
+Array.isArray(s.choices) && s.choices.length > 0 && typeof s.choices[0].count === 'number'

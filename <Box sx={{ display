@@ -1,0 +1,1 @@
+'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', height: '100vh', p: 2, background: theme.palette.grey[900], color: 'white' }}>

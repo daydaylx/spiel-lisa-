@@ -1,0 +1,1 @@
+React.FC<StatCardProps> = ({ title, count, icon, color, linkTo, isLoading }) => (

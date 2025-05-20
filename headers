@@ -1,0 +1,1 @@
+{ ...corsHeaders, 'Content-Type': 'application/json' }, status: 500

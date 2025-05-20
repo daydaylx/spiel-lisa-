@@ -1,0 +1,1 @@
+Erlaube authentifizierten Benutzern, ihre eigenen Player-Sessions zu lesen (bereits durch "Players can manage their own sessions" abgedeckt für auth.uid() = player_id)

@@ -1,0 +1,1 @@
+keyof SceneListEntry | 'choices_count') => {

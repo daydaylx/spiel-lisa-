@@ -1,0 +1,1 @@
+`4px solid ${theme.palette.primary.main}`,

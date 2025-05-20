@@ -1,0 +1,1 @@
+Erlaubt Spielern vollen Zugriff (Lesen, Schreiben, Löschen) nur auf ihre eigenen Sessions (basierend auf auth.uid() = player_id).

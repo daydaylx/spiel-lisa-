@@ -1,0 +1,1 @@
+ChoiceData, b: ChoiceData) => (a.order_in_scene ?? Infinity) - (b.order_in_scene ?? Infinity));

@@ -1,0 +1,1 @@
+globalAiParams.max_tokens || 500,   // Nutze globale oder Standard-max_tokens

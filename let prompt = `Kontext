@@ -1,0 +1,1 @@
+${sessionData.current_scene.context_description_for_ai || sessionData.current_scene.text_for_player}\n`;

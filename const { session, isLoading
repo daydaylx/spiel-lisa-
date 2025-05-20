@@ -1,0 +1,1 @@
+authIsLoading, isAdmin } = useAuth(); // Auth-Status und Ladezustand

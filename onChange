@@ -1,0 +1,1 @@
+(newValues: Record<string, any>) => void;

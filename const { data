@@ -1,0 +1,1 @@
+sessionDetails, error: sessionError } = await supabase

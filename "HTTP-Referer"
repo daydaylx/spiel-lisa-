@@ -1,0 +1,1 @@
+Deno.env.get("SUPABASE_URL") ?? "http://localhost", // Wichtig für OpenRouter
